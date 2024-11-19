@@ -1,0 +1,833 @@
+{
+    "data": {
+        "id": 5046304178228,
+        "admin_graphql_api_id": "gid://shopify/Order/5046304178228",
+        "app_id": 3700523009,
+        "browser_ip": null,
+        "buyer_accepts_marketing": false,
+        "cancel_reason": null,
+        "cancelled_at": null,
+        "cart_token": null,
+        "checkout_id": null,
+        "checkout_token": null,
+        "client_details": null,
+        "closed_at": null,
+        "confirmation_number": "GPERW8PL5",
+        "confirmed": true,
+        "contact_email": "deisihellinogueira@gmail.com",
+        "created_at": "2024-09-25T16:51:40-03:00",
+        "currency": "BRL",
+        "current_subtotal_price": "329.00",
+        "current_subtotal_price_set": {
+            "shop_money": {
+                "amount": "329.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "329.00",
+                "currency_code": "BRL"
+            }
+        },
+        "current_total_additional_fees_set": null,
+        "current_total_discounts": "0.00",
+        "current_total_discounts_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            }
+        },
+        "current_total_duties_set": null,
+        "current_total_price": "329.00",
+        "current_total_price_set": {
+            "shop_money": {
+                "amount": "329.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "329.00",
+                "currency_code": "BRL"
+            }
+        },
+        "current_total_tax": "0.00",
+        "current_total_tax_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            }
+        },
+        "customer_locale": null,
+        "device_id": null,
+        "discount_codes": [],
+        "email": "deisihellinogueira@gmail.com",
+        "estimated_taxes": false,
+        "financial_status": "pending",
+        "fulfillment_status": null,
+        "landing_site": null,
+        "landing_site_ref": null,
+        "location_id": null,
+        "merchant_of_record_app_id": null,
+        "name": "#61036",
+        "note": "Pedido Yampi 204667865470872",
+        "note_attributes": [
+            {
+                "name": "Gateway",
+                "value": "Vindi"
+            }
+        ],
+        "number": 60036,
+        "order_number": 61036,
+        "order_status_url": "https://manclub.com.br/59996536884/orders/a2b7872b41ab2f3ecb8feaf5f2538a9b/authenticate?key=af43017f6805b82dfa3e015528d75b49",
+        "original_total_additional_fees_set": null,
+        "original_total_duties_set": null,
+        "payment_gateway_names": [
+            "Vindi"
+        ],
+        "phone": null,
+        "po_number": null,
+        "presentment_currency": "BRL",
+        "processed_at": "2024-09-25T16:51:40-03:00",
+        "reference": null,
+        "referring_site": null,
+        "source_identifier": null,
+        "source_name": "3700523009",
+        "source_url": null,
+        "subtotal_price": "329.00",
+        "subtotal_price_set": {
+            "shop_money": {
+                "amount": "329.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "329.00",
+                "currency_code": "BRL"
+            }
+        },
+        "tags": "13618227752, 204667865470872, Cartão de crédito",
+        "tax_exempt": false,
+        "tax_lines": [],
+        "taxes_included": false,
+        "test": false,
+        "token": "a2b7872b41ab2f3ecb8feaf5f2538a9b",
+        "total_discounts": "0.00",
+        "total_discounts_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            }
+        },
+        "total_line_items_price": "329.00",
+        "total_line_items_price_set": {
+            "shop_money": {
+                "amount": "329.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "329.00",
+                "currency_code": "BRL"
+            }
+        },
+        "total_outstanding": "0.00",
+        "total_price": "329.00",
+        "total_price_set": {
+            "shop_money": {
+                "amount": "329.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "329.00",
+                "currency_code": "BRL"
+            }
+        },
+        "total_shipping_price_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            }
+        },
+        "total_tax": "0.00",
+        "total_tax_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            }
+        },
+        "total_tip_received": "0.00",
+        "total_weight": 350,
+        "updated_at": "2024-09-25T16:51:41-03:00",
+        "user_id": null,
+        "billing_address": {
+            "first_name": "Deisihelli",
+            "address1": "Avenida dos Graúnas, 53, Condomínio vila de Itapuã BL:2 AP:304",
+            "phone": "+5527997868481",
+            "city": "Serra",
+            "zip": "29166-640",
+            "province": "Espírito Santo",
+            "country": "Brazil",
+            "last_name": "Nogueira Dos Santos Pereira",
+            "address2": "Morada de Laranjeiras",
+            "company": "13618227752",
+            "latitude": null,
+            "longitude": null,
+            "name": "Deisihelli Nogueira Dos Santos Pereira",
+            "country_code": "BR",
+            "province_code": "ES"
+        },
+        "customer": {
+            "id": 6778124369972,
+            "email": "deisihellinogueira@gmail.com",
+            "created_at": "2024-09-25T16:51:40-03:00",
+            "updated_at": "2024-09-25T16:51:41-03:00",
+            "first_name": "Deisihelli",
+            "last_name": "Nogueira Dos Santos Pereira",
+            "state": "disabled",
+            "note": null,
+            "verified_email": true,
+            "multipass_identifier": null,
+            "tax_exempt": false,
+            "phone": null,
+            "email_marketing_consent": {
+                "state": "not_subscribed",
+                "opt_in_level": "single_opt_in",
+                "consent_updated_at": null
+            },
+            "sms_marketing_consent": null,
+            "tags": "",
+            "currency": "BRL",
+            "tax_exemptions": [],
+            "admin_graphql_api_id": "gid://shopify/Customer/6778124369972",
+            "default_address": {
+                "id": 7947392811060,
+                "customer_id": 6778124369972,
+                "first_name": "Deisihelli",
+                "last_name": "Nogueira Dos Santos Pereira",
+                "company": "13618227752",
+                "address1": "Avenida dos Graúnas, 53, Condomínio vila de Itapuã BL:2 AP:304",
+                "address2": "Morada de Laranjeiras",
+                "city": "Serra",
+                "province": "Espírito Santo",
+                "country": "Brazil",
+                "zip": "29166-640",
+                "phone": "+5527997868481",
+                "name": "Deisihelli Nogueira Dos Santos Pereira",
+                "province_code": "ES",
+                "country_code": "BR",
+                "country_name": "Brazil",
+                "default": true
+            }
+        },
+        "discount_applications": [],
+        "fulfillments": [],
+        "line_items": [
+            {
+                "id": 12517617500212,
+                "admin_graphql_api_id": "gid://shopify/LineItem/12517617500212",
+                "current_quantity": 1,
+                "fulfillable_quantity": 1,
+                "fulfillment_service": "manual",
+                "fulfillment_status": null,
+                "gift_card": false,
+                "grams": 350,
+                "name": "Aparador Elétrico de Pêlos e Virilha da ManClub - Desmatador",
+                "price": "329.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "329.00",
+                        "currency_code": "BRL"
+                    },
+                    "presentment_money": {
+                        "amount": "329.00",
+                        "currency_code": "BRL"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 6839641309236,
+                "properties": [],
+                "quantity": 1,
+                "requires_shipping": true,
+                "sku": "105",
+                "taxable": true,
+                "title": "Aparador Elétrico de Pêlos e Virilha da ManClub - Desmatador",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "BRL"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "BRL"
+                    }
+                },
+                "variant_id": 40328850931764,
+                "variant_inventory_management": "shopify",
+                "variant_title": null,
+                "vendor": "manclubbrasil",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": []
+            }
+        ],
+        "payment_terms": null,
+        "refunds": [],
+        "shipping_address": {
+            "first_name": "Deisihelli",
+            "address1": "Avenida dos Graúnas, 53, Condomínio vila de Itapuã BL:2 AP:304",
+            "phone": "+5527997868481",
+            "city": "Serra",
+            "zip": "29166-640",
+            "province": "Espírito Santo",
+            "country": "Brazil",
+            "last_name": "Nogueira Dos Santos Pereira",
+            "address2": "Morada de Laranjeiras",
+            "company": "13618227752",
+            "latitude": -20.2003869,
+            "longitude": -40.2206807,
+            "name": "Deisihelli Nogueira Dos Santos Pereira",
+            "country_code": "BR",
+            "province_code": "ES"
+        },
+        "shipping_lines": [
+            {
+                "id": 4195825451060,
+                "carrier_identifier": null,
+                "code": "CORREIOS - 5 A 15 DIAS ÚTEIS",
+                "discounted_price": "0.00",
+                "discounted_price_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "BRL"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "BRL"
+                    }
+                },
+                "is_removed": false,
+                "phone": null,
+                "price": "0.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "BRL"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "BRL"
+                    }
+                },
+                "requested_fulfillment_service_id": null,
+                "source": null,
+                "title": "CORREIOS - 5 A 15 DIAS ÚTEIS",
+                "tax_lines": [],
+                "discount_allocations": []
+            }
+        ]
+    }
+},
+{
+    "data": {
+        "id": 5046160982068,
+        "admin_graphql_api_id": "gid://shopify/Order/5046160982068",
+        "app_id": 3700523009,
+        "browser_ip": null,
+        "buyer_accepts_marketing": true,
+        "cancel_reason": null,
+        "cancelled_at": null,
+        "cart_token": null,
+        "checkout_id": null,
+        "checkout_token": null,
+        "client_details": null,
+        "closed_at": "2024-09-25T16:52:22-03:00",
+        "confirmation_number": "X5CTII09M",
+        "confirmed": true,
+        "contact_email": "proencaalexandre4@gmail.com",
+        "created_at": "2024-09-25T14:19:40-03:00",
+        "currency": "BRL",
+        "current_subtotal_price": "93.10",
+        "current_subtotal_price_set": {
+            "shop_money": {
+                "amount": "93.10",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "93.10",
+                "currency_code": "BRL"
+            }
+        },
+        "current_total_additional_fees_set": null,
+        "current_total_discounts": "4.90",
+        "current_total_discounts_set": {
+            "shop_money": {
+                "amount": "4.90",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "4.90",
+                "currency_code": "BRL"
+            }
+        },
+        "current_total_duties_set": null,
+        "current_total_price": "99.98",
+        "current_total_price_set": {
+            "shop_money": {
+                "amount": "99.98",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "99.98",
+                "currency_code": "BRL"
+            }
+        },
+        "current_total_tax": "0.00",
+        "current_total_tax_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            }
+        },
+        "customer_locale": null,
+        "device_id": null,
+        "discount_codes": [
+            {
+                "code": "Custom discount",
+                "amount": "4.90",
+                "type": "fixed_amount"
+            }
+        ],
+        "email": "proencaalexandre4@gmail.com",
+        "estimated_taxes": false,
+        "financial_status": "paid",
+        "fulfillment_status": "fulfilled",
+        "landing_site": null,
+        "landing_site_ref": null,
+        "location_id": null,
+        "merchant_of_record_app_id": null,
+        "name": "#61017",
+        "note": "Pedido Yampi 204667480499363",
+        "note_attributes": [
+            {
+                "name": "Gateway",
+                "value": "Pagar.me 2.0"
+            },
+            {
+                "name": "utm_source",
+                "value": "facebook"
+            },
+            {
+                "name": "utm_campaign",
+                "value": "120211394846190623"
+            },
+            {
+                "name": "utm_medium",
+                "value": "paid"
+            },
+            {
+                "name": "utm_term",
+                "value": "120211394846210623"
+            },
+            {
+                "name": "utm_content",
+                "value": "Facebook_UA"
+            }
+        ],
+        "number": 60017,
+        "order_number": 61017,
+        "order_status_url": "https://manclub.com.br/59996536884/orders/2f745d6412a3daf16e9e5820c3160001/authenticate?key=0b9880b7dfd5228bec1346f1541fefb8",
+        "original_total_additional_fees_set": null,
+        "original_total_duties_set": null,
+        "payment_gateway_names": [
+            "Pagar.me 2.0"
+        ],
+        "phone": null,
+        "po_number": null,
+        "presentment_currency": "BRL",
+        "processed_at": "2024-09-25T14:19:40-03:00",
+        "reference": null,
+        "referring_site": null,
+        "source_identifier": null,
+        "source_name": "3700523009",
+        "source_url": null,
+        "subtotal_price": "93.10",
+        "subtotal_price_set": {
+            "shop_money": {
+                "amount": "93.10",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "93.10",
+                "currency_code": "BRL"
+            }
+        },
+        "tags": "204667480499363, 26919447860, boasvindas5, Pix",
+        "tax_exempt": false,
+        "tax_lines": [],
+        "taxes_included": false,
+        "test": false,
+        "token": "2f745d6412a3daf16e9e5820c3160001",
+        "total_discounts": "4.90",
+        "total_discounts_set": {
+            "shop_money": {
+                "amount": "4.90",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "4.90",
+                "currency_code": "BRL"
+            }
+        },
+        "total_line_items_price": "98.00",
+        "total_line_items_price_set": {
+            "shop_money": {
+                "amount": "98.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "98.00",
+                "currency_code": "BRL"
+            }
+        },
+        "total_outstanding": "0.00",
+        "total_price": "99.98",
+        "total_price_set": {
+            "shop_money": {
+                "amount": "99.98",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "99.98",
+                "currency_code": "BRL"
+            }
+        },
+        "total_shipping_price_set": {
+            "shop_money": {
+                "amount": "6.88",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "6.88",
+                "currency_code": "BRL"
+            }
+        },
+        "total_tax": "0.00",
+        "total_tax_set": {
+            "shop_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            },
+            "presentment_money": {
+                "amount": "0.00",
+                "currency_code": "BRL"
+            }
+        },
+        "total_tip_received": "0.00",
+        "total_weight": 0,
+        "updated_at": "2024-09-25T16:52:22-03:00",
+        "user_id": null,
+        "billing_address": {
+            "first_name": "Alexandre",
+            "address1": "Rua Alcebíades Camolesi, 240, Casa",
+            "phone": "+5519997359056",
+            "city": "Piracicaba",
+            "zip": "13426-730",
+            "province": "São Paulo",
+            "country": "Brazil",
+            "last_name": "Henrique Proença Campos",
+            "address2": "Irmãos Camolesi",
+            "company": "26919447860",
+            "latitude": null,
+            "longitude": null,
+            "name": "Alexandre Henrique Proença Campos",
+            "country_code": "BR",
+            "province_code": "SP"
+        },
+        "customer": {
+            "id": 6615221305396,
+            "email": "proencaalexandre4@gmail.com",
+            "created_at": "2024-08-01T08:44:39-03:00",
+            "updated_at": "2024-09-25T14:20:53-03:00",
+            "first_name": "Alexandre",
+            "last_name": "Campos",
+            "state": "disabled",
+            "note": null,
+            "verified_email": true,
+            "multipass_identifier": null,
+            "tax_exempt": false,
+            "phone": null,
+            "email_marketing_consent": {
+                "state": "subscribed",
+                "opt_in_level": "single_opt_in",
+                "consent_updated_at": "2024-08-01T08:44:39-03:00"
+            },
+            "sms_marketing_consent": null,
+            "tags": "newsletter",
+            "currency": "BRL",
+            "tax_exemptions": [],
+            "admin_graphql_api_id": "gid://shopify/Customer/6615221305396",
+            "default_address": {
+                "id": 7947259150388,
+                "customer_id": 6615221305396,
+                "first_name": "Alexandre",
+                "last_name": "Henrique Proença Campos",
+                "company": "26919447860",
+                "address1": "Rua Alcebíades Camolesi, 240, Casa",
+                "address2": "Irmãos Camolesi",
+                "city": "Piracicaba",
+                "province": "São Paulo",
+                "country": "Brazil",
+                "zip": "13426-730",
+                "phone": "+5519997359056",
+                "name": "Alexandre Henrique Proença Campos",
+                "province_code": "SP",
+                "country_code": "BR",
+                "country_name": "Brazil",
+                "default": true
+            }
+        },
+        "discount_applications": [
+            {
+                "target_type": "line_item",
+                "type": "manual",
+                "value": "4.9",
+                "value_type": "fixed_amount",
+                "allocation_method": "across",
+                "target_selection": "all",
+                "title": "Custom discount",
+                "description": "Custom discount"
+            }
+        ],
+        "fulfillments": [
+            {
+                "id": 4521166274612,
+                "admin_graphql_api_id": "gid://shopify/Fulfillment/4521166274612",
+                "created_at": "2024-09-25T16:52:21-03:00",
+                "location_id": 65208418356,
+                "name": "#61017.1",
+                "order_id": 5046160982068,
+                "origin_address": {},
+                "receipt": {},
+                "service": "manual",
+                "shipment_status": null,
+                "status": "success",
+                "tracking_company": "LOGGI",
+                "tracking_number": "MANC4379530",
+                "tracking_numbers": [
+                    "MANC4379530"
+                ],
+                "tracking_url": "https://tracking.cubbo.com/orders/QkMwSGRUNjNQUT09LS1oYnorbFNqQm53Uk5RdXEvLS1rZi9RL2xtTmJVZTI1bFpUb3duRkNnPT0=",
+                "tracking_urls": [
+                    "https://tracking.cubbo.com/orders/QkMwSGRUNjNQUT09LS1oYnorbFNqQm53Uk5RdXEvLS1rZi9RL2xtTmJVZTI1bFpUb3duRkNnPT0="
+                ],
+                "updated_at": "2024-09-25T16:52:21-03:00",
+                "line_items": [
+                    {
+                        "id": 12517333205044,
+                        "admin_graphql_api_id": "gid://shopify/LineItem/12517333205044",
+                        "current_quantity": 2,
+                        "fulfillable_quantity": 0,
+                        "fulfillment_service": "manual",
+                        "fulfillment_status": "fulfilled",
+                        "gift_card": false,
+                        "grams": 0,
+                        "name": "Lâmina À Prova de Cortes - Aparador de Pelos - Lâmina de Cerâmica Susbtituível da ManClub",
+                        "price": "49.00",
+                        "price_set": {
+                            "shop_money": {
+                                "amount": "49.00",
+                                "currency_code": "BRL"
+                            },
+                            "presentment_money": {
+                                "amount": "49.00",
+                                "currency_code": "BRL"
+                            }
+                        },
+                        "product_exists": true,
+                        "product_id": 6888609447988,
+                        "properties": [],
+                        "quantity": 2,
+                        "requires_shipping": true,
+                        "sku": "1015",
+                        "taxable": true,
+                        "title": "Lâmina À Prova de Cortes - Aparador de Pelos - Lâmina de Cerâmica Susbtituível da ManClub",
+                        "total_discount": "0.00",
+                        "total_discount_set": {
+                            "shop_money": {
+                                "amount": "0.00",
+                                "currency_code": "BRL"
+                            },
+                            "presentment_money": {
+                                "amount": "0.00",
+                                "currency_code": "BRL"
+                            }
+                        },
+                        "variant_id": 40500986708020,
+                        "variant_inventory_management": "shopify",
+                        "variant_title": null,
+                        "vendor": "manclubbrasil",
+                        "tax_lines": [],
+                        "duties": [],
+                        "discount_allocations": [
+                            {
+                                "amount": "4.90",
+                                "amount_set": {
+                                    "shop_money": {
+                                        "amount": "4.90",
+                                        "currency_code": "BRL"
+                                    },
+                                    "presentment_money": {
+                                        "amount": "4.90",
+                                        "currency_code": "BRL"
+                                    }
+                                },
+                                "discount_application_index": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "line_items": [
+            {
+                "id": 12517333205044,
+                "admin_graphql_api_id": "gid://shopify/LineItem/12517333205044",
+                "current_quantity": 2,
+                "fulfillable_quantity": 0,
+                "fulfillment_service": "manual",
+                "fulfillment_status": "fulfilled",
+                "gift_card": false,
+                "grams": 0,
+                "name": "Lâmina À Prova de Cortes - Aparador de Pelos - Lâmina de Cerâmica Susbtituível da ManClub",
+                "price": "49.00",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "49.00",
+                        "currency_code": "BRL"
+                    },
+                    "presentment_money": {
+                        "amount": "49.00",
+                        "currency_code": "BRL"
+                    }
+                },
+                "product_exists": true,
+                "product_id": 6888609447988,
+                "properties": [],
+                "quantity": 2,
+                "requires_shipping": true,
+                "sku": "1015",
+                "taxable": true,
+                "title": "Lâmina À Prova de Cortes - Aparador de Pelos - Lâmina de Cerâmica Susbtituível da ManClub",
+                "total_discount": "0.00",
+                "total_discount_set": {
+                    "shop_money": {
+                        "amount": "0.00",
+                        "currency_code": "BRL"
+                    },
+                    "presentment_money": {
+                        "amount": "0.00",
+                        "currency_code": "BRL"
+                    }
+                },
+                "variant_id": 40500986708020,
+                "variant_inventory_management": "shopify",
+                "variant_title": null,
+                "vendor": "manclubbrasil",
+                "tax_lines": [],
+                "duties": [],
+                "discount_allocations": [
+                    {
+                        "amount": "4.90",
+                        "amount_set": {
+                            "shop_money": {
+                                "amount": "4.90",
+                                "currency_code": "BRL"
+                            },
+                            "presentment_money": {
+                                "amount": "4.90",
+                                "currency_code": "BRL"
+                            }
+                        },
+                        "discount_application_index": 0
+                    }
+                ]
+            }
+        ],
+        "payment_terms": null,
+        "refunds": [],
+        "shipping_address": {
+            "first_name": "Alexandre",
+            "address1": "Rua Alcebíades Camolesi, 240, Casa",
+            "phone": "+5519997359056",
+            "city": "Piracicaba",
+            "zip": "13426-730",
+            "province": "São Paulo",
+            "country": "Brazil",
+            "last_name": "Henrique Proença Campos",
+            "address2": "Irmãos Camolesi",
+            "company": "26919447860",
+            "latitude": -22.7558193,
+            "longitude": -47.6192745,
+            "name": "Alexandre Henrique Proença Campos",
+            "country_code": "BR",
+            "province_code": "SP"
+        },
+        "shipping_lines": [
+            {
+                "id": 4195708862516,
+                "carrier_identifier": null,
+                "code": "FRETE EXPRESSO",
+                "discounted_price": "6.88",
+                "discounted_price_set": {
+                    "shop_money": {
+                        "amount": "6.88",
+                        "currency_code": "BRL"
+                    },
+                    "presentment_money": {
+                        "amount": "6.88",
+                        "currency_code": "BRL"
+                    }
+                },
+                "is_removed": false,
+                "phone": null,
+                "price": "6.88",
+                "price_set": {
+                    "shop_money": {
+                        "amount": "6.88",
+                        "currency_code": "BRL"
+                    },
+                    "presentment_money": {
+                        "amount": "6.88",
+                        "currency_code": "BRL"
+                    }
+                },
+                "requested_fulfillment_service_id": null,
+                "source": null,
+                "title": "FRETE EXPRESSO",
+                "tax_lines": [],
+                "discount_allocations": []
+            }
+        ]
+    }
+}

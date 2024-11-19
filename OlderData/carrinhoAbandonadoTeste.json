@@ -1,0 +1,757 @@
+{
+    "data": {
+        "event": "cart.reminder",
+        "time": "2024-09-25 16:40:03",
+        "merchant": {
+            "id": 204667,
+            "alias": "manclub"
+        },
+        "resource": {
+            "id": 480658200,
+            "merchant_id": 204667,
+            "customer_id": 211032303,
+            "token": "Z2NwLXVzLWVhc3QxOjAxSjhOQVRSWE5LSjhNSEU4Q0FISDdZSDc1",
+            "payment_alias": "credit_card",
+            "has_recommendation": false,
+            "is_upsell": false,
+            "totalizers": {
+                "total_items": 3,
+                "subtotal": 507,
+                "discount": 0,
+                "shipment": 8.39,
+                "shipment_original_value": 8.39,
+                "shipment_discount_value": 0,
+                "shipment_discount_percent": 0,
+                "progressive_discount_value": 0,
+                "combos_discount_value": 0,
+                "total": 515.39,
+                "shipment_formated": "R$ 8,39",
+                "subtotal_formated": "R$ 507,00",
+                "discount_formated": "R$ 0,00",
+                "total_formated": "R$ 515,39"
+            },
+            "shipping_service": "FRETE EXPRESSO",
+            "tracking_data": {
+                "name": "Cleo clovis Bonkoski",
+                "email": "cbonkoski33@gmail.com"
+            },
+            "total_transactions": 0,
+            "simulate_url": "https://seguro.manclub.com.br/cart?cart_token=Z2NwLXVzLWVhc3QxOjAxSjhOQVRSWE5LSjhNSEU4Q0FISDdZSDc1&utm_source=instagram&utm_campaign= &forceCheckout=1&skipToCheckout=1&store_token=732db4943ecdcf29bb827e6c7920bb42c949e7ef&customerToken=b6583b50-7b75-11ef-b4ff-bb66e1b519bf",
+            "unauth_simulate_url": "https://seguro.manclub.com.br/cart?cart_token=Z2NwLXVzLWVhc3QxOjAxSjhOQVRSWE5LSjhNSEU4Q0FISDdZSDc1&utm_source=instagram&utm_campaign= &forceCheckout=1&skipToCheckout=1&store_token=732db4943ecdcf29bb827e6c7920bb42c949e7ef&forceLogout=1",
+            "utm_source": "instagram",
+            "utm_campaign": "chicoypixelgay",
+            "utm_content": null,
+            "utm_term": null,
+            "utm_medium": "cpc",
+            "last_transaction_status": null,
+            "created_at": {
+                "date": "2024-09-25 16:34:32.000000",
+                "timezone_type": 3,
+                "timezone": "America/Sao_Paulo"
+            },
+            "updated_at": {
+                "date": "2024-09-25 16:39:09.000000",
+                "timezone_type": 3,
+                "timezone": "America/Sao_Paulo"
+            },
+            "customer": {
+                "data": {
+                    "id": 211032303,
+                    "merchant_id": 204667,
+                    "marketplace_id": null,
+                    "cluster_id": null,
+                    "active": true,
+                    "type": "f",
+                    "name": "Cleo clovis Bonkoski",
+                    "razao_social": null,
+                    "first_name": "Cleo",
+                    "last_name": "Bonkoski",
+                    "generic_name": "Cleo clovis Bonkoski",
+                    "email": "cbonkoski33@gmail.com",
+                    "cnpj": null,
+                    "state_registration": null,
+                    "cpf": "03541007931",
+                    "birthday": null,
+                    "phone": {
+                        "full_number": "46988042990",
+                        "area_code": "46",
+                        "number": "988042990",
+                        "formated_number": "(46) 98804-2990",
+                        "whatsapp_link": "https://api.whatsapp.com/send?phone=5546988042990"
+                    },
+                    "social_driver": null,
+                    "social_id": null,
+                    "newsletter": false,
+                    "whatsapp": false,
+                    "utm_source": "instagram",
+                    "utm_campaign": "chicoypixelgay",
+                    "ip": "187.60.223.13",
+                    "notes": null,
+                    "token": "b6583b50-7b75-11ef-b4ff-bb66e1b519bf",
+                    "login_url": "https://seguro.manclub.com.br/auth/login/force?token=b6583b50-7b75-11ef-b4ff-bb66e1b519bf",
+                    "anonymized": false,
+                    "created_at": {
+                        "date": "2024-09-25 16:38:17.000000",
+                        "timezone_type": 3,
+                        "timezone": "America/Sao_Paulo"
+                    },
+                    "updated_at": {
+                        "date": "2024-09-25 16:38:17.000000",
+                        "timezone_type": 3,
+                        "timezone": "America/Sao_Paulo"
+                    }
+                }
+            },
+            "items": {
+                "data": [
+                    {
+                        "id": 693283119,
+                        "product_id": 10522134,
+                        "sku_id": 65510086,
+                        "kit_id": null,
+                        "bundle_id": null,
+                        "upsell_id": null,
+                        "bundle_name": null,
+                        "quantity": 1,
+                        "price": 49,
+                        "gift": false,
+                        "has_recomm": false,
+                        "customizations": [],
+                        "created_at": {
+                            "date": "2024-09-25 16:36:12.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        },
+                        "updated_at": {
+                            "date": "2024-09-25 16:36:12.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        },
+                        "sku": {
+                            "data": {
+                                "id": 65510086,
+                                "product_id": 10522134,
+                                "seller_id": null,
+                                "sku": "1015",
+                                "token": "MJW6GBY7AV",
+                                "erp_id": null,
+                                "blocked_sale": false,
+                                "barcode": null,
+                                "title": "Lâmina À Prova de Cortes - Aparador de Pelos - Lâmina de Cerâmica Susbtituível da ManClub",
+                                "availability": 1,
+                                "availability_soldout": -1,
+                                "days_availability_formated": "1 dia útil",
+                                "price_cost": 10,
+                                "price_sale": 69,
+                                "price_discount": 49,
+                                "width": 1,
+                                "height": 1,
+                                "length": 1,
+                                "weight": 0,
+                                "quantity_managed": false,
+                                "variations": [],
+                                "combinations": "65510086",
+                                "order": 0,
+                                "total_in_stock": 0,
+                                "total_orders": null,
+                                "allow_sell_without_customization": false,
+                                "image_reference_sku_id": null,
+                                "purchase_url": "https://seguro.manclub.com.br/r/MJW6GBY7AV",
+                                "created_at": {
+                                    "date": "2022-08-12 11:26:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "America/Sao_Paulo"
+                                },
+                                "updated_at": {
+                                    "date": "2023-12-12 10:24:22.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "America/Sao_Paulo"
+                                },
+                                "customizations": {
+                                    "data": []
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 693283121,
+                        "product_id": 27358610,
+                        "sku_id": 187045516,
+                        "kit_id": null,
+                        "bundle_id": null,
+                        "upsell_id": null,
+                        "bundle_name": null,
+                        "quantity": 1,
+                        "price": 399,
+                        "gift": false,
+                        "has_recomm": false,
+                        "customizations": [],
+                        "created_at": {
+                            "date": "2024-09-25 16:36:13.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        },
+                        "updated_at": {
+                            "date": "2024-09-25 16:36:13.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        },
+                        "sku": {
+                            "data": {
+                                "id": 187045516,
+                                "product_id": 27358610,
+                                "seller_id": null,
+                                "sku": "302",
+                                "token": "O731KGCG1F",
+                                "erp_id": null,
+                                "blocked_sale": false,
+                                "barcode": null,
+                                "title": "Kit Refresca - Desmatador + Desodorante das Joias + Cueca Boxer Boxer ManClub P",
+                                "availability": 1,
+                                "availability_soldout": -1,
+                                "days_availability_formated": "1 dia útil",
+                                "price_cost": 0,
+                                "price_sale": 507,
+                                "price_discount": 399,
+                                "width": 1,
+                                "height": 1,
+                                "length": 1,
+                                "weight": 11,
+                                "quantity_managed": false,
+                                "variations": [
+                                    {
+                                        "name": "Size",
+                                        "id": 1432135,
+                                        "value": "Boxer ManClub P",
+                                        "value_id": 47756477
+                                    }
+                                ],
+                                "combinations": "47756477",
+                                "order": 0,
+                                "total_in_stock": 0,
+                                "total_orders": null,
+                                "allow_sell_without_customization": false,
+                                "image_reference_sku_id": null,
+                                "purchase_url": "https://seguro.manclub.com.br/r/O731KGCG1F",
+                                "created_at": {
+                                    "date": "2024-01-31 15:12:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "America/Sao_Paulo"
+                                },
+                                "updated_at": {
+                                    "date": "2024-09-23 12:10:06.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "America/Sao_Paulo"
+                                },
+                                "customizations": {
+                                    "data": []
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 693283890,
+                        "product_id": 26411510,
+                        "sku_id": 180706559,
+                        "kit_id": null,
+                        "bundle_id": null,
+                        "upsell_id": null,
+                        "bundle_name": null,
+                        "quantity": 1,
+                        "price": 59,
+                        "gift": false,
+                        "has_recomm": false,
+                        "customizations": [],
+                        "created_at": {
+                            "date": "2024-09-25 16:39:09.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        },
+                        "updated_at": {
+                            "date": "2024-09-25 16:39:09.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        },
+                        "sku": {
+                            "data": {
+                                "id": 180706559,
+                                "product_id": 26411510,
+                                "seller_id": null,
+                                "sku": "1016",
+                                "token": "LTDD7TPWX0",
+                                "erp_id": null,
+                                "blocked_sale": false,
+                                "barcode": null,
+                                "title": "Lâmina À Prova de Cortes (2 unidades)",
+                                "availability": 1,
+                                "availability_soldout": -1,
+                                "days_availability_formated": "1 dia útil",
+                                "price_cost": 0,
+                                "price_sale": 98,
+                                "price_discount": 59,
+                                "width": 1,
+                                "height": 1,
+                                "length": 1,
+                                "weight": 0,
+                                "quantity_managed": false,
+                                "variations": [],
+                                "combinations": "180706559",
+                                "order": 0,
+                                "total_in_stock": 0,
+                                "total_orders": null,
+                                "allow_sell_without_customization": false,
+                                "image_reference_sku_id": null,
+                                "purchase_url": "https://seguro.manclub.com.br/r/LTDD7TPWX0",
+                                "created_at": {
+                                    "date": "2024-01-05 16:10:18.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "America/Sao_Paulo"
+                                },
+                                "updated_at": {
+                                    "date": "2024-01-05 17:32:54.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "America/Sao_Paulo"
+                                },
+                                "customizations": {
+                                    "data": []
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "transactions": {
+                "data": []
+            },
+            "spreadsheet": {
+                "data": {
+                    "customer_phone": "46988042990",
+                    "last_order_date": null,
+                    "products": "Lâmina À Prova de Cortes - Aparador de Pelos - Lâmina de Cerâmica Susbtituível da ManClub,Kit Refresca - Desmatador + Desodorante das Joias + Cueca Boxer Boxer ManClub P,Lâmina À Prova de Cortes (2 unidades)",
+                    "products_skus": "1015,302,1016",
+                    "categories": "Produtos",
+                    "brands": "manclubbrasil,Site Oficial | O lar do Desmatador",
+                    "purchase_url": "https://seguro.manclub.com.br/cart?cart_token=Z2NwLXVzLWVhc3QxOjAxSjhOQVRSWE5LSjhNSEU4Q0FISDdZSDc1&utm_source=instagram&utm_campaign=Planilha Carrinho Abandonado&forceCheckout=1&skipToCheckout=1&store_token=732db4943ecdcf29bb827e6c7920bb42c949e7ef&forceLogout=1",
+                    "abandoned_step": "shippment",
+                    "count_recover_mail_sent": "0/4"
+                }
+            },
+            "metadata": {
+                "data": [
+                    {
+                        "key": "source_platform",
+                        "value": "shopify"
+                    }
+                ]
+            },
+            "search": {
+                "data": {
+                    "has_shipment_service": true,
+                    "has_address": true,
+                    "has_customer": true,
+                    "has_refused_payment": false,
+                    "abandoned_step": "shippment",
+                    "count_recover_mail_sent": 0,
+                    "created_at": "2024-09-25",
+                    "updated_at": "2024-09-25"
+                }
+            },
+            "emails": {
+                "data": [
+                    {
+                        "id": 403891931,
+                        "cart_id": 480658200,
+                        "promocode_id": null,
+                        "turn": 1,
+                        "email": "cbonkoski33@gmail.com",
+                        "subject": null,
+                        "fire_date": "2024-09-25 17:08:40",
+                        "sent_at": null,
+                        "created_at": "2024-09-25 16:38:46",
+                        "updated_at": "2024-09-25 16:38:46"
+                    },
+                    {
+                        "id": 403891942,
+                        "cart_id": 480658200,
+                        "promocode_id": null,
+                        "turn": 2,
+                        "email": "cbonkoski33@gmail.com",
+                        "subject": null,
+                        "fire_date": "2024-09-25 18:38:40",
+                        "sent_at": null,
+                        "created_at": "2024-09-25 16:38:46",
+                        "updated_at": "2024-09-25 16:38:46"
+                    },
+                    {
+                        "id": 403891957,
+                        "cart_id": 480658200,
+                        "promocode_id": null,
+                        "turn": 3,
+                        "email": "cbonkoski33@gmail.com",
+                        "subject": null,
+                        "fire_date": "2024-09-26 16:38:40",
+                        "sent_at": null,
+                        "created_at": "2024-09-25 16:38:46",
+                        "updated_at": "2024-09-25 16:38:46"
+                    },
+                    {
+                        "id": 403891966,
+                        "cart_id": 480658200,
+                        "promocode_id": null,
+                        "turn": 4,
+                        "email": "cbonkoski33@gmail.com",
+                        "subject": null,
+                        "fire_date": "2024-09-27 16:38:40",
+                        "sent_at": null,
+                        "created_at": "2024-09-25 16:38:46",
+                        "updated_at": "2024-09-25 16:38:46"
+                    }
+                ]
+            }
+        }
+    }
+},
+{
+    "data": {
+        "event": "cart.reminder",
+        "time": "2024-09-25 17:09:04",
+        "merchant": {
+            "id": 204667,
+            "alias": "manclub"
+        },
+        "resource": {
+            "id": 480657979,
+            "merchant_id": 204667,
+            "customer_id": 211032345,
+            "token": "Z2NwLXVzLWVhc3QxOjAxSjhOQVJCNUpWTjJOUFIyMVE5RFgxOVlD",
+            "payment_alias": "credit_card",
+            "has_recommendation": false,
+            "is_upsell": false,
+            "totalizers": {
+                "total_items": 2,
+                "subtotal": 448,
+                "discount": 0,
+                "shipment": 10.19,
+                "shipment_original_value": 10.19,
+                "shipment_discount_value": 0,
+                "shipment_discount_percent": 0,
+                "progressive_discount_value": 0,
+                "combos_discount_value": 0,
+                "total": 458.19,
+                "shipment_formated": "R$ 10,19",
+                "subtotal_formated": "R$ 448,00",
+                "discount_formated": "R$ 0,00",
+                "total_formated": "R$ 458,19"
+            },
+            "shipping_service": "FRETE EXPRESSO",
+            "tracking_data": {
+                "name": "Williams Couto",
+                "email": "wb.couto@yahoo.com.br"
+            },
+            "total_transactions": 0,
+            "simulate_url": "https://seguro.manclub.com.br/cart?cart_token=Z2NwLXVzLWVhc3QxOjAxSjhOQVJCNUpWTjJOUFIyMVE5RFgxOVlD&utm_source=google&utm_campaign= &forceCheckout=1&skipToCheckout=1&store_token=732db4943ecdcf29bb827e6c7920bb42c949e7ef&customerToken=cf6e2fa0-7b75-11ef-be1e-23c820bc8577",
+            "unauth_simulate_url": "https://seguro.manclub.com.br/cart?cart_token=Z2NwLXVzLWVhc3QxOjAxSjhOQVJCNUpWTjJOUFIyMVE5RFgxOVlD&utm_source=google&utm_campaign= &forceCheckout=1&skipToCheckout=1&store_token=732db4943ecdcf29bb827e6c7920bb42c949e7ef&forceLogout=1",
+            "utm_source": "google",
+            "utm_campaign": "maximum-performance",
+            "utm_content": null,
+            "utm_term": null,
+            "utm_medium": "cpc",
+            "last_transaction_status": null,
+            "created_at": {
+                "date": "2024-09-25 16:33:05.000000",
+                "timezone_type": 3,
+                "timezone": "America/Sao_Paulo"
+            },
+            "updated_at": {
+                "date": "2024-09-25 16:39:39.000000",
+                "timezone_type": 3,
+                "timezone": "America/Sao_Paulo"
+            },
+            "customer": {
+                "data": {
+                    "id": 211032345,
+                    "merchant_id": 204667,
+                    "marketplace_id": null,
+                    "cluster_id": null,
+                    "active": true,
+                    "type": "f",
+                    "name": "Williams Couto",
+                    "razao_social": null,
+                    "first_name": "Williams",
+                    "last_name": "Couto",
+                    "generic_name": "Williams Couto",
+                    "email": "wb.couto@yahoo.com.br",
+                    "cnpj": null,
+                    "state_registration": null,
+                    "cpf": "00434243175",
+                    "birthday": null,
+                    "phone": {
+                        "full_number": "67992862016",
+                        "area_code": "67",
+                        "number": "992862016",
+                        "formated_number": "(67) 99286-2016",
+                        "whatsapp_link": "https://api.whatsapp.com/send?phone=5567992862016"
+                    },
+                    "social_driver": null,
+                    "social_id": null,
+                    "newsletter": false,
+                    "whatsapp": false,
+                    "utm_source": "google",
+                    "utm_campaign": "maximum-performance",
+                    "ip": "177.79.20.177",
+                    "notes": null,
+                    "token": "cf6e2fa0-7b75-11ef-be1e-23c820bc8577",
+                    "login_url": "https://seguro.manclub.com.br/auth/login/force?token=cf6e2fa0-7b75-11ef-be1e-23c820bc8577",
+                    "anonymized": false,
+                    "created_at": {
+                        "date": "2024-09-25 16:38:59.000000",
+                        "timezone_type": 3,
+                        "timezone": "America/Sao_Paulo"
+                    },
+                    "updated_at": {
+                        "date": "2024-09-25 16:38:59.000000",
+                        "timezone_type": 3,
+                        "timezone": "America/Sao_Paulo"
+                    }
+                }
+            },
+            "items": {
+                "data": [
+                    {
+                        "id": 693283689,
+                        "product_id": 10522134,
+                        "sku_id": 65510086,
+                        "kit_id": null,
+                        "bundle_id": null,
+                        "upsell_id": null,
+                        "bundle_name": null,
+                        "quantity": 1,
+                        "price": 49,
+                        "gift": false,
+                        "has_recomm": false,
+                        "customizations": [],
+                        "created_at": {
+                            "date": "2024-09-25 16:38:21.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        },
+                        "updated_at": {
+                            "date": "2024-09-25 16:38:21.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        },
+                        "sku": {
+                            "data": {
+                                "id": 65510086,
+                                "product_id": 10522134,
+                                "seller_id": null,
+                                "sku": "1015",
+                                "token": "MJW6GBY7AV",
+                                "erp_id": null,
+                                "blocked_sale": false,
+                                "barcode": null,
+                                "title": "Lâmina À Prova de Cortes - Aparador de Pelos - Lâmina de Cerâmica Susbtituível da ManClub",
+                                "availability": 1,
+                                "availability_soldout": -1,
+                                "days_availability_formated": "1 dia útil",
+                                "price_cost": 10,
+                                "price_sale": 69,
+                                "price_discount": 49,
+                                "width": 1,
+                                "height": 1,
+                                "length": 1,
+                                "weight": 0,
+                                "quantity_managed": false,
+                                "variations": [],
+                                "combinations": "65510086",
+                                "order": 0,
+                                "total_in_stock": 0,
+                                "total_orders": null,
+                                "allow_sell_without_customization": false,
+                                "image_reference_sku_id": null,
+                                "purchase_url": "https://seguro.manclub.com.br/r/MJW6GBY7AV",
+                                "created_at": {
+                                    "date": "2022-08-12 11:26:17.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "America/Sao_Paulo"
+                                },
+                                "updated_at": {
+                                    "date": "2023-12-12 10:24:22.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "America/Sao_Paulo"
+                                },
+                                "customizations": {
+                                    "data": []
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "id": 693283690,
+                        "product_id": 27358610,
+                        "sku_id": 187045517,
+                        "kit_id": null,
+                        "bundle_id": null,
+                        "upsell_id": null,
+                        "bundle_name": null,
+                        "quantity": 1,
+                        "price": 399,
+                        "gift": false,
+                        "has_recomm": false,
+                        "customizations": [],
+                        "created_at": {
+                            "date": "2024-09-25 16:38:21.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        },
+                        "updated_at": {
+                            "date": "2024-09-25 16:38:21.000000",
+                            "timezone_type": 3,
+                            "timezone": "America/Sao_Paulo"
+                        },
+                        "sku": {
+                            "data": {
+                                "id": 187045517,
+                                "product_id": 27358610,
+                                "seller_id": null,
+                                "sku": "303",
+                                "token": "N2WSDOSQBT",
+                                "erp_id": null,
+                                "blocked_sale": false,
+                                "barcode": null,
+                                "title": "Kit Refresca - Desmatador + Desodorante das Joias + Cueca Boxer Boxer ManClub M",
+                                "availability": 1,
+                                "availability_soldout": -1,
+                                "days_availability_formated": "1 dia útil",
+                                "price_cost": 0,
+                                "price_sale": 507,
+                                "price_discount": 399,
+                                "width": 1,
+                                "height": 1,
+                                "length": 1,
+                                "weight": 11,
+                                "quantity_managed": false,
+                                "variations": [
+                                    {
+                                        "name": "Size",
+                                        "id": 1432135,
+                                        "value": "Boxer ManClub M",
+                                        "value_id": 47756478
+                                    }
+                                ],
+                                "combinations": "47756478",
+                                "order": 1,
+                                "total_in_stock": 0,
+                                "total_orders": null,
+                                "allow_sell_without_customization": false,
+                                "image_reference_sku_id": null,
+                                "purchase_url": "https://seguro.manclub.com.br/r/N2WSDOSQBT",
+                                "created_at": {
+                                    "date": "2024-01-31 15:12:00.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "America/Sao_Paulo"
+                                },
+                                "updated_at": {
+                                    "date": "2024-09-23 12:10:12.000000",
+                                    "timezone_type": 3,
+                                    "timezone": "America/Sao_Paulo"
+                                },
+                                "customizations": {
+                                    "data": []
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "transactions": {
+                "data": []
+            },
+            "spreadsheet": {
+                "data": {
+                    "customer_phone": "67992862016",
+                    "last_order_date": null,
+                    "products": "Lâmina À Prova de Cortes - Aparador de Pelos - Lâmina de Cerâmica Susbtituível da ManClub,Kit Refresca - Desmatador + Desodorante das Joias + Cueca Boxer Boxer ManClub M",
+                    "products_skus": "1015,303",
+                    "categories": "Produtos",
+                    "brands": "manclubbrasil,Site Oficial | O lar do Desmatador",
+                    "purchase_url": "https://seguro.manclub.com.br/cart?cart_token=Z2NwLXVzLWVhc3QxOjAxSjhOQVJCNUpWTjJOUFIyMVE5RFgxOVlD&utm_source=google&utm_campaign=Planilha Carrinho Abandonado&forceCheckout=1&skipToCheckout=1&store_token=732db4943ecdcf29bb827e6c7920bb42c949e7ef&forceLogout=1",
+                    "abandoned_step": "shippment",
+                    "count_recover_mail_sent": "0/4"
+                }
+            },
+            "metadata": {
+                "data": [
+                    {
+                        "key": "source_platform",
+                        "value": "shopify"
+                    }
+                ]
+            },
+            "search": {
+                "data": {
+                    "has_shipment_service": true,
+                    "has_address": true,
+                    "has_customer": true,
+                    "has_refused_payment": false,
+                    "abandoned_step": "shippment",
+                    "count_recover_mail_sent": 0,
+                    "created_at": "2024-09-25",
+                    "updated_at": "2024-09-25"
+                }
+            },
+            "emails": {
+                "data": [
+                    {
+                        "id": 403892940,
+                        "cart_id": 480657979,
+                        "promocode_id": null,
+                        "turn": 1,
+                        "email": "wb.couto@yahoo.com.br",
+                        "subject": null,
+                        "fire_date": "2024-09-25 16:54:39",
+                        "sent_at": null,
+                        "created_at": "2024-09-25 17:08:45",
+                        "updated_at": "2024-09-25 17:08:45"
+                    },
+                    {
+                        "id": 403892942,
+                        "cart_id": 480657979,
+                        "promocode_id": null,
+                        "turn": 2,
+                        "email": "wb.couto@yahoo.com.br",
+                        "subject": null,
+                        "fire_date": "2024-09-25 18:39:39",
+                        "sent_at": null,
+                        "created_at": "2024-09-25 17:08:45",
+                        "updated_at": "2024-09-25 17:08:45"
+                    },
+                    {
+                        "id": 403892944,
+                        "cart_id": 480657979,
+                        "promocode_id": null,
+                        "turn": 3,
+                        "email": "wb.couto@yahoo.com.br",
+                        "subject": null,
+                        "fire_date": "2024-09-26 16:39:39",
+                        "sent_at": null,
+                        "created_at": "2024-09-25 17:08:45",
+                        "updated_at": "2024-09-25 17:08:45"
+                    },
+                    {
+                        "id": 403892946,
+                        "cart_id": 480657979,
+                        "promocode_id": null,
+                        "turn": 4,
+                        "email": "wb.couto@yahoo.com.br",
+                        "subject": null,
+                        "fire_date": "2024-09-27 16:39:39",
+                        "sent_at": null,
+                        "created_at": "2024-09-25 17:08:45",
+                        "updated_at": "2024-09-25 17:08:45"
+                    }
+                ]
+            }
+        }
+    }
+},
