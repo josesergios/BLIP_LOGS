@@ -25,8 +25,8 @@ cd <NOME_DO_REPOSITORIO>`
 
 ### 2. Instale as Dependências  
 
-npm install
+`npm install`
 
 ### 3. Inicie o Servidor 
 
-node server.js
+`node server.js`
