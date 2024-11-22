@@ -19,8 +19,9 @@ Certifique-se de ter o **Node.js** e o **npm** instalados no seu ambiente.
 ## Como Usar  
 
 ### 1. Clone o Repositório  
-`git clone <URL_DO_REPOSITORIO>\n
-cd <NOME_DO_REPOSITORIO>`
+`git clone <URL_DO_REPOSITORIO>`
+
+`cd <NOME_DO_REPOSITORIO>`
 
 ### 2. Instale as Dependências  
 
