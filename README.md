@@ -1,6 +1,6 @@
 # Webhook Logger API  
 
-Este repositório contém uma API simples construída com **Node.js** e **Express.js** para registrar eventos recebidos de diversas fontes. Os dados recebidos são armazenados em arquivos `.json` no servidor.
+Este projeto é uma API construída com **Node.js** e **Express.js** criada para registrar e organizar eventos enviados de diferentes fontes. Cada evento recebido é salvo como um arquivo `.json` no servidor, garantindo que todas as informações fiquem armazenadas de forma clara e acessível para futuras consultas.
 
 ## Funcionalidades  
 
